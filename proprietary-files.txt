@@ -414,8 +414,8 @@ vendor/lib64/libsdmextension.so|71d2737fea43aa19216f63d551d2abf7ae02794e
 vendor/lib64/libtinyxml2_1.so|70942325afdd14eedcf11b3fbbfbc3d98f42f8dc
 
 # Graphics (Vulkan) - from LA.UM.8.2.r1-06700-sdm660.0
-vendor/lib/hw/vulkan.sdm660.so|7f677363774e3c12613f004922cb7aba9aa3bf7b
-vendor/lib64/hw/vulkan.sdm660.so|7f37b59e75cb1739b74ff9646dc958591cd7fa23
+vendor/lib/hw/vulkan.sdm660.so|8d6fb76c06088d88d240377cc254d1f9ab2208a3
+vendor/lib64/hw/vulkan.sdm660.so|24a86cd57c0696b45731619eb535783cfe412ffd
 
 # IOP - from LA.UM.8.2.r1-06700-sdm660.0
 product/lib/vendor.qti.hardware.iop@1.0.so:vendor/lib/vendor.qti.hardware.iop@1.0.so|a560207b369bbb3e3156cd6e1600da02b202e96a
